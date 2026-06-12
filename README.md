@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.9+"/>
     <img src="https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
     <img src="https://img.shields.io/badge/XGBoost-2.0+-006400?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License MIT"/>
   </p>
   <p align="center">
     <em>An end-to-end machine learning platform for stock prediction, portfolio optimization, risk assessment, and anomaly detection on India's benchmark NIFTY-50 index.</em>
@@ -261,12 +260,6 @@ python -m src.stock_predictor
 ## 🔬 Technical Report
 
 For a comprehensive deep-dive into methodology, experimental design, and analysis, see the full **[Technical Report](technical_report.md)** (~12 pages).
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
