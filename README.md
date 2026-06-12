@@ -278,8 +278,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - **XGBoost, SHAP, Streamlit** open-source communities
 
 ---
-
-<p align="center">
-  <strong>Built with ❤️ for the Hackathon</strong><br/>
-  <em>Making investment intelligence accessible through AI</em>
-</p>
